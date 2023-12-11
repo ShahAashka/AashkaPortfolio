@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "This is an effort to build something fun and intresting",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShahAashka/AashkaPortfolio.git"
+  },
+  "author": "Aashka Acharya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShahAashka/AashkaPortfolio/issues"
+  },
+  "homepage": "https://github.com/ShahAashka/AashkaPortfolio#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
